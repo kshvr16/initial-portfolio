@@ -3443,6 +3443,7 @@ textarea.w-input, textarea.w-select {
 body {
     color: #85a4c4;
     background-color: #f0f0f3;
+    /*background-color: #303030;*/
     font-family: Satoshi, sans-serif;
     font-size: 14px;
     line-height: 20px;
@@ -5440,6 +5441,7 @@ figure {
 
 .body {
     background-color: #f0f0f3;
+    /*background-color: #303030;*/
 }
 
 .big-icon {
